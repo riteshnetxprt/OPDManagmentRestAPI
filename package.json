@@ -1,5 +1,5 @@
 {
-  "name": "opd management",
+  "name": "opdmanagement",
   "version": "1.0.0",
   "description": "A opd management app for reception",
   "main": "server.js",
